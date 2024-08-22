@@ -1,3 +1,3 @@
-# test - test version
+# test - test
 
-version test #1
+test
