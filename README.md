@@ -1,3 +1,3 @@
-# test item name - version name
+# item name - version name
 
 version desc
